@@ -1,1 +1,1 @@
-pip install spotify
+pip install spotipy
